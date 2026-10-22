@@ -6,9 +6,9 @@ Il contient six graphiques pour visualiser les ventes par console, par région, 
 
 Des filtres permettent de choisir les consoles, les années et les genres pour explorer les données plus facilement.
 
-![Dashboard 1](images/image1.png)
-![Dashboard 2](images/image2.png)
-![Dashboard 3](images/image3.png)
+![Dashboard 1](image/image1.png)
+![Dashboard 2](image/image2.png)
+![Dashboard 3](image/image3.png)
 
 
 
